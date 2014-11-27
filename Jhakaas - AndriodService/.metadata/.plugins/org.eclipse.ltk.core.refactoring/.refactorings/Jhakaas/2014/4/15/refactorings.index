@@ -1,0 +1,9 @@
+1396947645036	Delete element
+1396951127980	Encapsulate field 'id'
+1396951176186	Encapsulate field 'FirstName'
+1396951256437	Encapsulate field 'lastName'
+1396951264512	Encapsulate field 'avatar'
+1397123049547	Extract method 'createPendingIntent'
+1397123294845	Extract method 'registerReceiverAndNotifyLocationManagerForAlerts'
+1397123340780	Extract method 'startCapturing'
+1397123495791	Extract method 'generateAToast'
